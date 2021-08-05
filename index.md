@@ -1,13 +1,13 @@
 ## USA2SL
 
-Hello all, after multiple inquiries from friends and family from USA trying to get to Sri Lanka I have decided to create a guide to help ease the process. 
+Hello All, after multiple inquiries from friends and family from USA trying to get to Sri Lanka I have decided to create a guide to help ease the process. 
 The following only applies for Citizens of The United states of America. 
-If you are A Permanant Residence ( Green Card Holder ) or A Dual Citizen ( USA and Sri lanka ) Please
+If you are A Permanant Residence (Green Card Holder) or A Dual Citizen (USA and Sri lanka) Please
 check with [Sri Lankan Embassy](https://slembassyusa.org/new/)
 
-For those who are vaccinated with both doses ( minimum 14 days prior to departure ) you are only required to qurantine one day at A Level 1 secure hotel. A PCR test with negative result is required to checkout. 
+For those who are vaccinated with both doses (minimum 14 days prior to departure) you are only required to qurantine one day at A Level 1 secure hotel. A PCR test with negative result is required to checkout. 
 
-For those who are unvaccinated you must quarantine for 14 days with with multiple PCR tests throughout your stay at qurantine hotel ( Day1, Day 7 and day 14)
+For those who are unvaccinated you must quarantine for 14 days with with multiple PCR tests throughout your stay at qurantine hotel (Day1, Day 7 and Day 14)
 
 
 ### 1.Entry Approval request
@@ -16,9 +16,9 @@ An approval needed to enter Sri Lanka. Send a email to **entry.permission@mfa.go
 - Passport No( for Foreign Nationals please attach a copy of the passport and visa page/s related to previous visits to Sri Lanka
 - Country of the Person/s currently Living/Working/Studying/Stranded
 - Closest Sri Lankan Embassy/High Commission/Consulate General
-- Reason for return to Sri Lanka (if it is regarding a medical reason please  attach relevant Documents
-- Quarantine Option
-- Contact details (email address ,telephone no/s
+- Reason for return to Sri Lanka (if it is regarding a medical reason please  attach relevant Documents)
+- Quarantine Option (Government or Private) 
+- Contact details (email address ,telephone no/s)
 - If the applicant is a Government servant please attach documents related to Foreign leave issued by the Institution
 
 ### 2.ETA Visa Application 
@@ -37,7 +37,7 @@ Reservation Requirements
 Once the Hotel processes your application, A PCR will be schduled at the arrival. The hotel will request PCR appointment from the Health ministry of Sri Lanka. Once the Health ministry gets the request and hotel confirmation has been booked, the ETA application will be approved and approval email will be sent out.
 
 ### 4.Get ready to FLY 
-- Vaccination cards ( if Applicatble )
+- Vaccination cards (if Applicatble)
 - Print Approval for Entry (#1)
 - Print ETA visa Approval (#2)
 - Print Quarntine hotel confirmation (#3)
