@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## USA2SL
 
-You can use the [editor on GitHub](https://github.com/Ronyanthony/USA2SL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello all, after multiple inquiries from friends and family from USA trying to get to Sri Lanka I have decided to create a guide to help ease the process. 
+The following only applies for Citizens of The United states of America. 
+If you are A Permanant Residence ( Green Card Holder ) or A Dual Citizen ( USA and Sri lanka ) Please
+check with [Sri Lankan Embassy](https://slembassyusa.org/new/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For those who are vaccinated with both doses ( minimum 14 days prior to departure ) you are only required to qurantine one day at A Level 1 secure hotel. A PCR test with negative result is required to checkout. 
 
-### Markdown
+For those who are unvaccinated you must quarantine for 14 days with with multiple PCR tests throughout your stay at qurantine hotel ( Day1, Day 7 and day 14)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 1.Entry Approval request
+An approval needed to enter Sri Lanka. Send a email to **entry.permission@mfa.gov.lk** to enter with below details 
+- Name of the  Person/s request to enter Sri Lanka
+- Passport No( for Foreign Nationals please attach a copy of the passport and visa page/s related to previous visits to Sri Lanka
+- Country of the Person/s currently Living/Working/Studying/Stranded
+- Closest Sri Lankan Embassy/High Commission/Consulate General
+- Reason for return to Sri Lanka (if it is regarding a medical reason please  attach relevant Documents
+- Quarantine Option
+- Contact details (email address ,telephone no/s
+- If the applicant is a Government servant please attach documents related to Foreign leave issued by the Institution
 
-# Header 1
-## Header 2
-### Header 3
+### 2.ETA Visa Application 
+Apply for Sri Lanka [ETA VISA](https://eta.gov.lk/slvisa/). 
+Reference number will be availble within 24 hours via E-Mail
+In order to get your visa approved you must book a qurantine hotel.
 
-- Bulleted
-- List
+### 3.Book a Quarantine Hotel
+Book a Qurantine hotel of your choice from [Approved hotel](https://srilanka.travel/helloagain/documents/Level1Hotels/Level1HotelList__.pdf)
+Reservation Requirements 
+- Vaccination Card 
+- Valid Passport 
+- ETA Visa Application reference number
+- Flight Details 
 
-1. Numbered
-2. List
+Once the Hotel processes your application, A PCR will be schduled at the arrival. The hotel will request PCR appointment from the Health ministry of Sri Lanka. Once the Health ministry gets the request and hotel confirmation has been booked, the ETA application will be approved and approval email will be sent out.
 
-**Bold** and _Italic_ and `Code` text
+### 4.Get ready to FLY 
+- Vaccination cards ( if Applicatble )
+- Print Approval for Entry (#1)
+- Print ETA visa Approval (#2)
+- Print Quarntine hotel confirmation (#3)
+- Fill out [Health Declaration Form](https://sltda.gov.lk/storage/common_media/Health_Declaration_Form_061120202182760486.pdf) (Which will be required at arrival. you can get it at the Colombo airport as well)
+- All travellers two years and older arriving in Sri Lanka should mandatorily carry a negative PCR test report issued within 72 hours prior to Depature
 
-[Link](url) and ![Image](src)
-```
+### Support Links 
+- [Hello Again Sri Lanka](https://www.srilanka.travel/helloagain/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ronyanthony/USA2SL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Safe Travels!
