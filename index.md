@@ -1,4 +1,4 @@
-## USA2SL
+## USA2SL (Updated August 05 2021)
 
 Hello All, after multiple inquiries from friends and family from USA trying to get to Sri Lanka I have decided to create a guide to help ease the process. 
 The following only applies for Citizens of The United states of America. 
